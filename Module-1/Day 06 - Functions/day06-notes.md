@@ -50,3 +50,6 @@ Recursion:
 
 1. When a function call itself is called recursion. 
 2. A recursion function must have an exit criteria or base condition/exit condition.
+
+NOTE: 
+1. in function it will always print undefined if it doesnt return anything.
