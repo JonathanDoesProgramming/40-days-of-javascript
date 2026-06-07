@@ -21,3 +21,4 @@ user['movie lover'] = false;
 // Accessing dynamic key value
 const someKey = 'age'; 
 console.log(user[someKey]); // 34
+
