@@ -1,4 +1,4 @@
-'use strict'
+// 'use strict'
 // this keyword in Standalone Function
 function sayName() {
     console.log('this inside a function', this);

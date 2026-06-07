@@ -1,4 +1,4 @@
-'use strict'
+// 'use strict'
 // this keyword in arrow function
 const getFood = () => this;
 console.log('this inside the arrow function defined in global scope', getFood());
