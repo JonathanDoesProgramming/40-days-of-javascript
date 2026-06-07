@@ -7,6 +7,8 @@
 */
  
 try {
+    // if no error here, catch wont execute
+    // if have error here, catch will execute
     console.log('execution starts here');
     abc;
     console.log('execution ends here');
