@@ -158,7 +158,7 @@
 3. Replaces elements.
 4. Mutates the original array.
 5. Returns an array containing removed elements.
-
+git 
 #### Parameters
 
 - `start` → starting index.
